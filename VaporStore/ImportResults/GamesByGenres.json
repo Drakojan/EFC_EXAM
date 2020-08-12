@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 9,
+    "Genre": "Nudity",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 13,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 21,
+    "Genre": "Nudity",
+    "Games": [],
+    "TotalPlayers": 0
+  }
+]
