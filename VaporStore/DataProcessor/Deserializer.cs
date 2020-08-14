@@ -101,8 +101,6 @@
 
 		public static string ImportUsers(VaporStoreDbContext context, string jsonString)
 		{
-			//TODO: not 100% sure if email prop of User should be validated as email
-
 			var sb = new StringBuilder();
 
 			var usersRAW = JsonConvert.DeserializeObject<importUsersDTO[]>(jsonString, new JsonSerializerSettings
